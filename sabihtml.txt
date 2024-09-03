@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Sabithrija S</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .section-title {
+            border-bottom: 2px solid #2c3e50;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+        }
+        .info, .skills, .education, .project, .achievements, .contact, .soft-skills {
+            margin-bottom: 20px;
+        }
+        .info p {
+            margin: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sabithrija S</h1>
+        <div class="info">
+            <p><strong>Address:</strong> 6/242, Deevattipatti, Kadayampatty, Salem-636351</p>
+            <p><strong>Mobile No:</strong> 6369553904</p>
+            <p><strong>Email:</strong> <a href="mailto:thirisha1707@gmail.com">thirisha1707@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sabithrija2004/">linkedin.com/in/sabithrija2004/</a></p>
+        </div>
+
+        <h2 class="section-title">Career Objective</h2>
+        <p>As a highly motivated and detail-oriented Computer Science Engineering student with a passion for innovative problem-solving, I am seeking an internship or entry-level position in a dynamic and forward-thinking company. My goal is to apply my technical expertise, learn continuously, and contribute to the success of the organization I join.</p>
+
+        <h2 class="section-title">Educational Qualification</h2>
+        <div class="education">
+            <p><strong>B.E. (C.S.E.)</strong>, R P Sarathy Institute of Technology, Anna University (2025) - 79.3%</p>
+            <p><strong>H.S.C.</strong>, S.V.V.M. Higher Secondary School, State Board (2021) - 79.5%</p>
+            <p><strong>S.S.L.C.</strong>, S.V.V.M. Higher Secondary School, State Board (2019) - 70.6%</p>
+        </div>
+
+        <h2 class="section-title">Course Work</h2>
+        <div class="coursework">
+            <ul>
+                <li>Completed Fundamentals of Java at Optimus (17.08.2022 - 20.08.2022)</li>
+                <li>Completed Web Development at IPCS Global (14.06.2023 - 30.06.2023)</li>
+                <li>Completed PHP at Durga Tech (02.02.2024 - 10.02.2024)</li>
+            </ul>
+        </div>
+
+        <h2 class="section-title">Project</h2>
+        <div class="project">
+            <p><strong>Fake News Detection by Using NLP (Aug 2023 - Nov 2023)</strong></p>
+            <p>Natural Language Processing (NLP) has emerged as a powerful tool. This dataset contains news articles labeled "real" or "fake." It's a classic dataset used by many researchers and beginners.</p>
+            <p><strong>Techniques:</strong> Text Classification, Sentiment Analysis, Named Entity Recognition</p>
+            <p><strong>Tools:</strong> TensorFlow, Numpy</p>
+            <p><strong>Languages:</strong> Python</p>
+            <p><strong>Accuracy:</strong> Up to 90% in ideal conditions, 60-80% in real-world scenarios</p>
+            <p><strong>GitHub Link:</strong> <a href="https://github.com/Sabithrija/Phase2.git">https://github.com/Sabithrija/Phase2.git</a></p>
+        </div>
+
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skills">
+            <ul>
+                <li>Languages: Java, C Programming, SQL, Python</li>
+                <li>Tool: GIT</li>
+            </ul>
+        </div>
+
+        <h2 class="section-title">Soft Skills</h2>
+        <div class="soft-skills">
+            <ul>
+                <li>Proven team player with strong collaboration skills</li>
+                <li>Highly adaptable to changing work environments</li>
+                <li>Skilled in time management and organization</li>
+            </ul>
+        </div>
+
+        <h2 class="section-title">Significant Achievements</h2>
+        <div class="achievements">
+            <ul>
+                <li>1st prize in the technical event at National Level Technical Fest (DEFENZO Translify) held on 7th Feb 2023 at Karpagam Academy of Higher Education</li>
+                <li>1st prize in Badminton and Throw Ball at intra-college sports day of 2023</li>
+                <li>Runner-up in Volleyball at the zone level game of 2019</li>
+                <li>Attended a workshop in Generative AI-Demystified on 23rd Feb 2024</li>
+                <li>Participated in National Level Technical Symposium (Codex) held on 4th & 5th Sep 2023</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
